@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Learning to Adapt Structured Output Space for Semantic Segmentation, LeopoldACC">
+    <meta name="keywords" content="GraphTER-Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations, LeopoldACC">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,18 +16,18 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>Learning to Adapt Structured Output Space for Semantic Segmentation | LeopoldACC</title>
-    <link rel="icon" type="image/jpeg" href="/myself.jpg">
+    <title>GraphTER-Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations | LeopoldACC</title>
+    <link rel="icon" type="image/jpeg" href="/Blogs/myself.jpg">
 
-    <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
-    <link rel="stylesheet" type="text/css" href="/libs/materialize/materialize.min.css">
-    <link rel="stylesheet" type="text/css" href="/libs/aos/aos.css">
-    <link rel="stylesheet" type="text/css" href="/libs/animate/animate.min.css">
-    <link rel="stylesheet" type="text/css" href="/libs/lightGallery/css/lightgallery.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/matery.css">
-    <link rel="stylesheet" type="text/css" href="/css/my.css">
+    <link rel="stylesheet" type="text/css" href="/Blogs/libs/awesome/css/all.css">
+    <link rel="stylesheet" type="text/css" href="/Blogs/libs/materialize/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="/Blogs/libs/aos/aos.css">
+    <link rel="stylesheet" type="text/css" href="/Blogs/libs/animate/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="/Blogs/libs/lightGallery/css/lightgallery.min.css">
+    <link rel="stylesheet" type="text/css" href="/Blogs/css/matery.css">
+    <link rel="stylesheet" type="text/css" href="/Blogs/css/my.css">
 
-    <script src="/libs/jquery/jquery.min.js"></script>
+    <script src="/Blogs/libs/jquery/jquery.min.js"></script>
 
 <!-- hexo injector head_end start -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
@@ -43,9 +43,9 @@
     <nav id="headNav" class="bg-color nav-transparent">
         <div id="navContainer" class="nav-wrapper container">
             <div class="brand-logo">
-                <a href="/" class="waves-effect waves-light">
+                <a href="/Blogs/" class="waves-effect waves-light">
                     
-                    <img src="/medias/myself.jpg" class="logo-img" alt="LOGO">
+                    <img src="/Blogs/medias/myself.jpg" class="logo-img" alt="LOGO">
                     
                     <span class="logo-span">LeopoldACC</span>
                 </a>
@@ -57,7 +57,7 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/" class="waves-effect waves-light">
+    <a href="/Blogs/" class="waves-effect waves-light">
       
       <i class="fas fa-home" style="zoom: 0.6;"></i>
       
@@ -68,7 +68,7 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/tags" class="waves-effect waves-light">
+    <a href="/Blogs/tags" class="waves-effect waves-light">
       
       <i class="fas fa-tags" style="zoom: 0.6;"></i>
       
@@ -79,7 +79,7 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/categories" class="waves-effect waves-light">
+    <a href="/Blogs/categories" class="waves-effect waves-light">
       
       <i class="fas fa-bookmark" style="zoom: 0.6;"></i>
       
@@ -90,7 +90,7 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/archives" class="waves-effect waves-light">
+    <a href="/Blogs/archives" class="waves-effect waves-light">
       
       <i class="fas fa-archive" style="zoom: 0.6;"></i>
       
@@ -101,7 +101,7 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/about" class="waves-effect waves-light">
+    <a href="/Blogs/about" class="waves-effect waves-light">
       
       <i class="fas fa-user-circle" style="zoom: 0.6;"></i>
       
@@ -112,7 +112,7 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/contact" class="waves-effect waves-light">
+    <a href="/Blogs/contact" class="waves-effect waves-light">
       
       <i class="fas fa-comments" style="zoom: 0.6;"></i>
       
@@ -123,7 +123,7 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="/friends" class="waves-effect waves-light">
+    <a href="/Blogs/friends" class="waves-effect waves-light">
       
       <i class="fas fa-address-book" style="zoom: 0.6;"></i>
       
@@ -144,7 +144,7 @@
 
     <div class="mobile-head bg-color">
         
-        <img src="/medias/myself.jpg" class="logo-img circle responsive-img">
+        <img src="/Blogs/medias/myself.jpg" class="logo-img circle responsive-img">
         
         <div class="logo-name">LeopoldACC</div>
         <div class="logo-desc">
@@ -160,7 +160,7 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/" class="waves-effect waves-light">
+		<a href="/Blogs/" class="waves-effect waves-light">
 			
 			    <i class="fa-fw fas fa-home"></i>
 			
@@ -171,7 +171,7 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/tags" class="waves-effect waves-light">
+		<a href="/Blogs/tags" class="waves-effect waves-light">
 			
 			    <i class="fa-fw fas fa-tags"></i>
 			
@@ -182,7 +182,7 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/categories" class="waves-effect waves-light">
+		<a href="/Blogs/categories" class="waves-effect waves-light">
 			
 			    <i class="fa-fw fas fa-bookmark"></i>
 			
@@ -193,7 +193,7 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/archives" class="waves-effect waves-light">
+		<a href="/Blogs/archives" class="waves-effect waves-light">
 			
 			    <i class="fa-fw fas fa-archive"></i>
 			
@@ -204,7 +204,7 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/about" class="waves-effect waves-light">
+		<a href="/Blogs/about" class="waves-effect waves-light">
 			
 			    <i class="fa-fw fas fa-user-circle"></i>
 			
@@ -215,7 +215,7 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/contact" class="waves-effect waves-light">
+		<a href="/Blogs/contact" class="waves-effect waves-light">
 			
 			    <i class="fa-fw fas fa-comments"></i>
 			
@@ -226,7 +226,7 @@
         
         <li class="m-nav-item">
 	  
-		<a href="/friends" class="waves-effect waves-light">
+		<a href="/Blogs/friends" class="waves-effect waves-light">
 			
 			    <i class="fa-fw fas fa-address-book"></i>
 			
@@ -314,12 +314,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/10.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/Blogs/medias/featureimages/10.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">Learning to Adapt Structured Output Space for Semantic Segmentation</h1>
+                    <h1 class="description center-align post-title">GraphTER-Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations</h1>
                 </div>
             </div>
         </div>
@@ -332,7 +332,7 @@
 <main class="post-container content">
 
     
-    <link rel="stylesheet" href="/libs/tocbot/tocbot.css">
+    <link rel="stylesheet" href="/Blogs/libs/tocbot/tocbot.css">
 <style>
     #articleContent h1::before,
     #articleContent h2::before,
@@ -435,12 +435,16 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/">
-                                <span class="chip bg-color">语义分割</span>
+                            <a href="/Blogs/tags/%E6%97%A0%E7%9B%91%E7%9D%A3/">
+                                <span class="chip bg-color">无监督</span>
                             </a>
                         
-                            <a href="/tags/%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94/">
-                                <span class="chip bg-color">域自适应</span>
+                            <a href="/Blogs/tags/%E5%9B%BE%E5%8D%B7%E7%A7%AF/">
+                                <span class="chip bg-color">图卷积</span>
+                            </a>
+                        
+                            <a href="/Blogs/tags/%E7%82%B9%E4%BA%91%E6%95%B0%E6%8D%AE/">
+                                <span class="chip bg-color">点云数据</span>
                             </a>
                         
                     </div>
@@ -451,7 +455,7 @@
                     <div class="post-cate">
                         <i class="fas fa-bookmark fa-fw icon-category"></i>
                         
-                            <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" class="post-category">
+                            <a href="/Blogs/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" class="post-category">
                                 计算机视觉
                             </a>
                         
@@ -481,26 +485,33 @@
 
         
         <!-- 是否加载使用自带的 prismjs. -->
-        <link rel="stylesheet" href="/libs/prism/prism.css">
+        <link rel="stylesheet" href="/Blogs/libs/prism/prism.css">
         
 
         
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p><img src="https://cdn.acwing.com/media/article/image/2020/11/05/39715_3970146e1f-CVPR2018-adaptsegnet.PNG" alt="CVPR2018 adaptsegnet.PNG"> </p>
-<p><a target="_blank" rel="noopener" href="https://arxiv.org/pdf/1802.10349.pdf">论文链接</a><br>*<br>As the labeling process is tedious and labor intensive, developing algorithms that can adapt source ground truth labels to the target domain is of great interest. In this paper, we propose an adversarial learning method for domain adaptation in the context of semantic segmentation.<br>Considering semantic segmentations as structured outputs that contain spatial similarities between the source and target domains, we adopt adversarial learning in the output space. To further enhance the adapted model, we construct a multi-level adversarial network to effectively perform output space domain adaptation at different feature levels.<br>*<br>对于自动驾驶中语义分割任务, 由于标记过程繁琐且费力，因此提出了一种在语义分割的上下文中进行领域自适应的对抗学习方法来用GTA5数据(自带标注,源域)训练,并将真实世界(标注很少,目标域)特征对齐到源域特征,从而不用在真实世界标注大量数据。</p>
-<p>主要看三个损失</p>
-<p>$$<br>\mathcal{L}{d}\left(P\right)=-\sum_{h, w}(1-z) \log \left(\mathbf{D}(P)^{(h, w, 0)}\right)+z \log \left(\mathbf{D}(P)^{(h, w, 1)}\right)<br>$$<br>*<br>where z = 0 if the sample is drawn from the target domain,and z = 1 for the sample from the source domain.<br>*<br>第一个损失 训练一个discriminator区分分割语义图是来自目标域还是源域</p>
-<p>当z=0(来自目标域时),则只剩第一项<code>-logD(p)0</code>越小<code>logD(p)0</code>越大<code>D(p)0</code>越大-D能区分出来自目标域的分割图</p>
-<p>来自源域 z=1,那么第二项<code>-logD(p)1</code>越小<code>logD(p)1</code>越大<code>D(p)1</code>越大-D能区分出来自源域的分割图</p>
-<p>$$<br>\mathcal{L}{s e g}\left(I{s}\right)=-\sum_{h, w} \sum_{c \in C} Y{s}^{(h, w, c)} \log \left(P_{s}^{(h, w, c)}\right)<br>$$</p>
-<p>第二个损失,<code>Y</code>为语义分割标签,<code>P</code>为语义分割概率,即我们想要<code>-logP[h,w]</code>位置上输出第<code>c</code>类的概率*第<code>c</code>类标签(非c类0,c类1)越小,即让<code>logP[h,w]</code>位置上输出第<code>c</code>类的概率越大,即让<code>P[h,w,c]</code>越大</p>
-<p>*<br>for images in the target domain, we forward them to G and obtain the prediction Pt = G(It). To make the distribution of Pt closer to Ps, we use an adversarial loss Ladv in (1) as:<br>*</p>
-<p>$$<br>\mathcal{L}{a d v}\left(I_{t}\right)=-\sum \log \left(\mathbf{D}\left(P_{t}\right)^{(h, w, 1)}\right)<br>$$</p>
-<p>第三个损失,对于目标域图(真实图),我们想要训练<code>G</code>生成的预测图<code>Pt=G(It)</code>的分布越接近<code>Ps(G(Is))</code>越好,那么就是让这<code>Pt</code>在之前训练好的<code>D</code>上预测为来自源域的概率越大越好<br>源域 <code>z=1</code>,那么<code>-logD(Pt)1</code>越小<code>logD(Pt)1</code>越大<code>D(Pt)1</code>越大 <code>D</code>被<code>G</code>(目标域图<code>It</code>)生成的<code>Pt</code>“欺骗”了,将实际上来自目标域的分割图被判定为来自源域的分割图。</p>
-<p>*<br>This loss is designed to train the segmentation network and fool the discriminator by maximizing the probability of the target prediction being considered as the source prediction.<br>*</p>
-<p>那么在这个过程中,<strong>目标域图像在G中间生成的语义特征就和源域拉近了(G对目标域生成的语义特征和源域生成的语义特征差别变得很小),那么在源域上训练的分类器就可以用于G(It)了</strong>,即我们就可以用在源域(GTA5)上训练的网络去对目标域(真实世界)的数据进行语义分割任务</p>
+                <p><img src="https://cdn.acwing.com/media/article/image/2020/10/30/39715_bb1a70c51a-cvpr2020graphTER.PNG" alt="cvpr2020graphTER.PNG"> </p>
+<p>Recent advances in Graph Convolutional Neural Networks (GCNNs) have shown their efficiency for nonEuclidean data on graphs, which often require a large amount of labeled data with high cost. It it thus critical to learn graph feature representations in an unsupervised manner in practice. To this end, we propose a novel unsupervised learning of Graph Transformation Equivariant Representations (GraphTER), aiming to capture intrinsic patterns of graph structure under both global and local transformations. Specifically, we allow to sample different groups of nodes from a graph and then transform them node-wise isotropically or anisotropically. Then, we self-train a representation encoder to capture the graph structures by reconstructing these node-wise transformations from the feature representations of the original and transformed graphs.</p>
+<p>这段话意思就是:现在GCN在非欧式数据(比如点云)上有很好的效果,但图结构标注数据量过大,所以提出用无监督的方式(自编码器)学一个变换,从而能在被全局变换或者局部变换后的的数据上也能提取到相对应的图结构</p>
+<p>where f() is a linear or non-linear function applied to each pair of nodes to get the pair-wise similarity. For example,a widely adopted function is to nonlinearly construct a k-nearest-neighbor (kNN) graph from node features</p>
+<p>和pointnet系列的文章一样,图的边权是通过KNN(k个最近的点与中心点的差)+MLP(多层感知机)提取到的<br>$$A = f(X)$$</p>
+<p>Formally, suppose we sample a graph transformation t from a transformation distribution Tg, i.e., t $\sim$ Tg. Applying the transformation to graph signals X that are sampled from data distribution Xg, i.e., X $\sim$ Xg, leads to the filtered graph signal</p>
+<p>对变换方式的分布进行采样 并对图数据信号进行变换,则得到变换后的图信号<br>$$\widetilde{X} = t(X)$$<br>以及变换后的图结构<br>$$\widetilde{A} = f(\widetilde{X}) = f(t(X))$$</p>
+<p>然后对变换前的点云$X$和变换后的点云$\tilde{X}$在共享的encoder中做GCN,</p>
+<p>$$<br>X_{n×d}^{output}=A_{n×n}X_{n×d}W_{d×d’}<br>$$</p>
+<p>encoder得到的特征图中第i个点的特征$a_{i,j}$是 通过 第i个节点特征+ 邻域节点j特征相对原特征的偏移量  并作非线性映射后的最大的边特征</p>
+<p>这个公式打不出来 qaq<br><img src="https://cdn.acwing.com/media/article/image/2020/10/30/39715_37ac56ec1a-cvpr2020graphTER2.PNG" alt="cvpr2020graphTER2.PNG"> </p>
+<p>在encoder后的bottleneck处把$X_{output}和\widetilde{X}_{output}$做拼接<br><img src="https://cdn.acwing.com/media/article/image/2020/10/30/39715_241ac8e41a-cvpr2020graphTER1.PNG" alt="cvpr2020graphTER1.PNG"> </p>
+<p>Node-wise features of the original and transformed graphs are then concatenated at each node, which are then fed into the transformation decoder. The decoder consists of several EdgeConv blocks to aggregate the representations of both the original and transformed graphs to predict the nodewise transformations t. Based on the loss in (5), t is decoded by minimizing the mean squared error (MSE) between the ground truth and estimated transformation parameters at each sampled node. Fig. 4 illustrates the architecture of learning the proposed GraphTER in such an auto-encoder structure.</p>
+<p>decoder也是GCN提特征最后得到变换量的预测$\hat{t}$,</p>
+<p>$$<br>\hat{\mathbf{t}}=D(E(\mathbf{X}, \mathbf{A}), E(\tilde{\mathbf{X}}, \tilde{\mathbf{A}}))<br>$$</p>
+<p>并且我们将预测得到的变换图$\widetilde{t} (N×3)$与t$(N×3)$的均方根误差最小化,通过变化量的loss更新encoder和decoder,<br>$$<br>\min _{E, D} \underset{S \sim \mathcal{Sg}} {\mathbb{E}} \underset{\mathbf{t} \sim \mathcal{Tg}}{\mathbb{E}} loss (\mathbf{t}, \hat{\mathbf{t}})<br>$$</p>
+<p>In the unsupervised feature learning stage, the representation encoder and transformation decoder are jointly trained by minimizing (5).In the supervised evaluation stage, the first several blocks of the<br>encoder are fixed with frozen weights and a linear classifier is trained with labeled samples.</p>
+<p>第一个阶段我们并没有训练encoder去把每个点的类别分开,而只是**通过学习变换量使得我们的encoder在面对带变换的数据时仍然能提取到依然有效的图结构及图特征(对于新的数据更鲁棒)**。</p>
+<p><img src="https://cdn.acwing.com/media/article/image/2020/10/30/39715_0e79d65e1a-cvpr2020graphTER3.PNG" alt="cvpr2020graphTER3.PNG"> </p>
+<p>在第二个阶段,将前几层encoder冻结,接近分类器的层的权重能通过梯度更新做下游任务(分割,分类)。</p>
 
                 
             </div>
@@ -517,7 +528,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="/about" rel="external nofollow noreferrer">LeopoldACC</a>
+                    <a href="/Blogs/about" rel="external nofollow noreferrer">LeopoldACC</a>
                 </span>
             </div>
             <div class="reprint__type">
@@ -527,7 +538,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://leopoldacc.github.io/Blogs/2020/12/04/CVPR2018%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/">https://leopoldacc.github.io/Blogs/2020/12/04/CVPR2018%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/</a>
+                    <a href="https://leopoldacc.github.io/Blogs/Blogs/2020/12/04/CVPR2020-%E7%82%B9%E4%BA%91-GCD+Autoencoder-GraphTER/">https://leopoldacc.github.io/Blogs/Blogs/2020/12/04/CVPR2020-%E7%82%B9%E4%BA%91-GCD+Autoencoder-GraphTER/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -540,7 +551,7 @@
                     本博客所有文章除特別声明外，均采用
                     <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>
                     许可协议。转载请注明来源
-                    <a href="/about" target="_blank">LeopoldACC</a>
+                    <a href="/Blogs/about" target="_blank">LeopoldACC</a>
                     !
                 </span>
             </div>
@@ -565,24 +576,28 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/">
-                                    <span class="chip bg-color">语义分割</span>
+                                <a href="/Blogs/tags/%E6%97%A0%E7%9B%91%E7%9D%A3/">
+                                    <span class="chip bg-color">无监督</span>
                                 </a>
                             
-                                <a href="/tags/%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94/">
-                                    <span class="chip bg-color">域自适应</span>
+                                <a href="/Blogs/tags/%E5%9B%BE%E5%8D%B7%E7%A7%AF/">
+                                    <span class="chip bg-color">图卷积</span>
+                                </a>
+                            
+                                <a href="/Blogs/tags/%E7%82%B9%E4%BA%91%E6%95%B0%E6%8D%AE/">
+                                    <span class="chip bg-color">点云数据</span>
                                 </a>
                             
                         </div>
                     
                 </div>
                 <div class="post_share" style="zoom: 80%; width: fit-content; display: inline-block; float: right; margin: -0.15rem 0;">
-                    <link rel="stylesheet" type="text/css" href="/libs/share/css/share.min.css">
+                    <link rel="stylesheet" type="text/css" href="/Blogs/libs/share/css/share.min.css">
 <div id="article-share">
 
     
     <div class="social-share" data-sites="twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin" data-wechat-qrcode-helper="<p>微信扫一扫即可分享！</p>"></div>
-    <script src="/libs/share/js/social-share.min.js"></script>
+    <script src="/Blogs/libs/share/js/social-share.min.js"></script>
     
 
     
@@ -700,10 +715,10 @@
                         <li class="tab col s6 wechat-tab waves-effect waves-light"><a href="#wechat">微 信</a></li>
                     </ul>
                     <div id="alipay">
-                        <img src="/medias/reward/alipay.jpg" class="reward-img" alt="支付宝打赏二维码">
+                        <img src="/Blogs/medias/reward/alipay.jpg" class="reward-img" alt="支付宝打赏二维码">
                     </div>
                     <div id="wechat">
-                        <img src="/medias/reward/wechat.png" class="reward-img" alt="微信打赏二维码">
+                        <img src="/Blogs/medias/reward/wechat.png" class="reward-img" alt="微信打赏二维码">
                     </div>
                 </div>
             </div>
@@ -744,13 +759,13 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2020/12/04/%E5%8D%95%E8%B0%83%E6%A0%88/">
+                <a href="/Blogs/2020/12/04/%E9%93%BE%E8%A1%A8/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="单调栈">
+                        <img src="/Blogs/medias/featureimages/18.jpg" class="responsive-img" alt="链表">
                         
-                        <span class="card-title">单调栈</span>
+                        <span class="card-title">链表</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -767,7 +782,7 @@
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/" class="post-category">
+                            <a href="/Blogs/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/" class="post-category">
                                     数据结构与算法
                                 </a>
                             
@@ -778,12 +793,12 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E5%8D%95%E8%B0%83%E6%A0%88/">
-                        <span class="chip bg-color">单调栈</span>
+                    <a href="/Blogs/tags/%E7%AE%97%E6%B3%95/">
+                        <span class="chip bg-color">算法</span>
                     </a>
                     
-                    <a href="/tags/%E7%AE%97%E6%B3%95/">
-                        <span class="chip bg-color">算法</span>
+                    <a href="/Blogs/tags/%E9%93%BE%E8%A1%A8/">
+                        <span class="chip bg-color">链表</span>
                     </a>
                     
                 </div>
@@ -797,13 +812,13 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2020/12/04/%E9%93%BE%E8%A1%A8/">
+                <a href="/Blogs/2020/12/04/CVPR2020-Foreground-Aware%20Relation%20Network%20for%20Geospatial%20Object%20Segmentation%20in%20High%20Spatial%20Resolution%20Remote%20Sensing%20Imagery/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="链表">
+                        <img src="/Blogs/medias/featureimages/11.jpg" class="responsive-img" alt="CVPR2020-Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery">
                         
-                        <span class="card-title">链表</span>
+                        <span class="card-title">CVPR2020-Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -820,8 +835,8 @@
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/" class="post-category">
-                                    数据结构与算法
+                            <a href="/Blogs/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" class="post-category">
+                                    计算机视觉
                                 </a>
                             
                             
@@ -831,12 +846,12 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E7%AE%97%E6%B3%95/">
-                        <span class="chip bg-color">算法</span>
+                    <a href="/Blogs/tags/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/">
+                        <span class="chip bg-color">语义分割</span>
                     </a>
                     
-                    <a href="/tags/%E9%93%BE%E8%A1%A8/">
-                        <span class="chip bg-color">链表</span>
+                    <a href="/Blogs/tags/%E9%81%A5%E6%84%9F%E5%9B%BE%E5%83%8F/">
+                        <span class="chip bg-color">遥感图像</span>
                     </a>
                     
                 </div>
@@ -852,21 +867,21 @@
 
 
 <!-- 代码块功能依赖 -->
-<script type="text/javascript" src="/libs/codeBlock/codeBlockFuction.js"></script>
+<script type="text/javascript" src="/Blogs/libs/codeBlock/codeBlockFuction.js"></script>
 
 <!-- 代码语言 -->
 
-<script type="text/javascript" src="/libs/codeBlock/codeLang.js"></script>
+<script type="text/javascript" src="/Blogs/libs/codeBlock/codeLang.js"></script>
 
 
 <!-- 代码块复制 -->
 
-<script type="text/javascript" src="/libs/codeBlock/codeCopy.js"></script>
+<script type="text/javascript" src="/Blogs/libs/codeBlock/codeCopy.js"></script>
 
 
 <!-- 代码块收缩 -->
 
-<script type="text/javascript" src="/libs/codeBlock/codeShrink.js"></script>
+<script type="text/javascript" src="/Blogs/libs/codeBlock/codeShrink.js"></script>
 
 
     </div>
@@ -887,7 +902,7 @@
 </div>
 
 
-<script src="/libs/tocbot/tocbot.min.js"></script>
+<script src="/Blogs/libs/tocbot/tocbot.min.js"></script>
 <script>
     $(function () {
         tocbot.init({
@@ -991,7 +1006,7 @@
 
     <footer class="page-footer bg-color">
     
-        <link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
+        <link rel="stylesheet" href="/Blogs/libs/aplayer/APlayer.min.css">
 <style>
     .aplayer .aplayer-lrc p {
         
@@ -1041,7 +1056,7 @@
     </div>
 </div>
 
-<script src="/libs/aplayer/APlayer.min.js"></script>
+<script src="/Blogs/libs/aplayer/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 
     
@@ -1052,7 +1067,7 @@
                 <span id="year">2020</span>
             
             <span id="year">2020</span>
-            <a href="/about" target="_blank">LeopoldACC</a>
+            <a href="/Blogs/about" target="_blank">LeopoldACC</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
             <br>
@@ -1105,7 +1120,7 @@
 
 
 
-    <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
+    <a href="/Blogs/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
         <i class="fas fa-rss"></i>
     </a>
 
@@ -1216,7 +1231,7 @@ $(function () {
         });
     };
 
-    searchFunc('/search.xml', 'searchInput', 'searchResult');
+    searchFunc('/Blogs/search.xml', 'searchInput', 'searchResult');
 });
 </script>
 
@@ -1228,12 +1243,12 @@ $(function () {
 </div>
 
 
-    <script src="/libs/materialize/materialize.min.js"></script>
-    <script src="/libs/masonry/masonry.pkgd.min.js"></script>
-    <script src="/libs/aos/aos.js"></script>
-    <script src="/libs/scrollprogress/scrollProgress.min.js"></script>
-    <script src="/libs/lightGallery/js/lightgallery-all.min.js"></script>
-    <script src="/js/matery.js"></script>
+    <script src="/Blogs/libs/materialize/materialize.min.js"></script>
+    <script src="/Blogs/libs/masonry/masonry.pkgd.min.js"></script>
+    <script src="/Blogs/libs/aos/aos.js"></script>
+    <script src="/Blogs/libs/scrollprogress/scrollProgress.min.js"></script>
+    <script src="/Blogs/libs/lightGallery/js/lightgallery-all.min.js"></script>
+    <script src="/Blogs/js/matery.js"></script>
 
     <!-- Baidu Analytics -->
 
@@ -1254,10 +1269,10 @@ $(function () {
 </script>
 
     
-    <script src="/libs/others/clicklove.js" async="async"></script>
+    <script src="/Blogs/libs/others/clicklove.js" async="async"></script>
     
     
-    <script async src="/libs/others/busuanzi.pure.mini.js"></script>
+    <script async src="/Blogs/libs/others/busuanzi.pure.mini.js"></script>
     
 
     
@@ -1272,7 +1287,7 @@ $(function () {
     
 
     
-    <script src="/libs/instantpage/instantpage.js" type="module"></script>
+    <script src="/Blogs/libs/instantpage/instantpage.js" type="module"></script>
     
 
 </body>
